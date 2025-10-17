@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm Gülay 👋
+🎓I am a Management Information Systems student at Fırat University. 
+💻I am new to software development and currently learning HTML & CSS.
+☘️I want to improve myself in Python and web development.
+✨My interests include movies, drawing and handmade crafts.
+---
 
-<!--
-**gulayblt0-ctrl/gulayblt0-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀Technologies I Use
+- HTML
+- CSS
+- Python (in the learning stage)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##📌My Projects
+-Personel Website 
+-Mini Gallery Site
+
+---
+##📫Contect Me
+-GitHub:
+
