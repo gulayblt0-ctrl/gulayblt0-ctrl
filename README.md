@@ -18,5 +18,6 @@
 
 ---
 ##📫Contect Me
--GitHub:
+-GitHub
+-Linkedln (https://www.linkedin.com/in/g%C3%BClay-bulut-788268289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
